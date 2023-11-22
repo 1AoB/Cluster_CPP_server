@@ -1,6 +1,6 @@
 [TOC]
 
-
+git clone -b master <repository_url>
 
 # 项目名:实现集群服务器
 
