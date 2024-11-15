@@ -1,3 +1,3 @@
 # 具体项目代码,请看master分支
 
-master将合并至main分支
+main将合并至master分支
